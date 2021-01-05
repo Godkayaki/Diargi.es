@@ -1,4 +1,4 @@
-# Diargi.es
+# diargi.es
 
 ## What is this
 My personal webpage/portfolio<br>
