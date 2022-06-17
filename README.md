@@ -1,7 +1,7 @@
 # diargi.es
 
 ## What is this
-My personal webpage/portfolio<br>
+My old personal webpage/portfolio<br>
 www.diargi.es
 
 ## Info about it
